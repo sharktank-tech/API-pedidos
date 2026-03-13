@@ -9,10 +9,10 @@
 - autenticação JWT
 - integração com WhatsApp API para notificar cliente
 - webhook para integração com outros sistemas
-- Tecnologias
+### Tecnologias:
 - Python + Flask ou FastAPI
 - PostgreSQL
 - Redis (fila de pedidos)
 - Docker
 
-### Tecnologias:
+

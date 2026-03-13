@@ -1,0 +1,22 @@
+API-pedidos/
+│
+├── app/
+│   ├── main.py
+│   │
+│   ├── routers/
+│   │   └── users.py
+│   │
+│   ├── models/
+│   │   └── user.py
+│   │
+│   ├── schemas/
+│   │   └── user_schema.py
+│   │
+│   ├── services/
+│   │   └── user_service.py
+│   │
+│   └── database/
+│       └── connection.py
+│
+├── requirements.txt
+└── run.py
