@@ -4,7 +4,8 @@ API-pedidos/
 │   ├── main.py
 │   │
 │   ├── routers/
-│   │   └── users.py
+│   │   └── user_routes.py
+|   |   └── order_routes.py
 │   │
 │   ├── models/
 │   │   └── user.py
@@ -17,6 +18,9 @@ API-pedidos/
 │   │
 │   └── database/
 │       └── connection.py
+│   │
+│   └── repository/
+│        └──
 │
 ├── requirements.txt
 └── run.py
